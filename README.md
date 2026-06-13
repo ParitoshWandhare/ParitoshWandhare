@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Paritosh%20Wandhare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Paritosh%20D%20Wandhare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=24\&pause=1000\&color=A855F7\&center=true\&vCenter=true\&width=900\&lines=Building+Production-Grade+Web+Applications;Backend+Engineer+%E2%80%A2+MERN+Stack+Developer;Designing+Scalable+REST+APIs;Creating+Real-Time+Web+Experiences;Full+Stack+Developer+%40+VIIT+Pune)](https://git.io/typing-svg)
 
